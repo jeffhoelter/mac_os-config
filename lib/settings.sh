@@ -261,3 +261,29 @@ export VIM_TEXT_OBJECT_RUBY_BLOCK_EXTENSION_PATH="$VIM_EXTENSION_ROOT/vim-textob
 export VIM_TEXT_OBJECT_RUBY_BLOCK_EXTENSION_URL="https://github.com/nelstrom/vim-textobj-rubyblock.git"
 export VIM_UNIMPAIRED_EXTENSION_PATH="$VIM_EXTENSION_ROOT/vim-unimpaired"
 export VIM_UNIMPAIRED_EXTENSION_URL="https://github.com/tpope/vim-unimpaired.git"
+
+
+# Jeff Custom
+export SPECTACLE_APP_NAME=Spectacle.app
+export SPECTACLE_APP_URL="https://s3.amazonaws.com/spectacle/downloads/Spectacle+1.2.zip"
+
+export EVERNOTE_APP_NAME=Evernote.app
+export EVERNOTE_APP_URL="https://evernote.com/download/get.php?file=EvernoteMac"
+
+export LITTLESNITCH_APP_NAME="Little Snitch Installer.app"
+export LITTLESNITCH_APP_URL="https://www.obdev.at/ftp/pub/Products/littlesnitch/LittleSnitch-3.7.2.dmg"
+
+export BOXSYNC_APP_NAME="Box Sync Installer.app"
+export BOXSYNC_APP_URL="https://e3.boxcdn.net/box-installers/sync/Sync+4+External/Box%20Sync%20Installer.dmg"
+
+export MENUMETERS_APP_NAME=MenuMeters.prefpane
+export MENUMETERS_APP_URL="http://member.ipmu.jp/yuji.tachikawa/MenuMetersElCapitan/zips/MenuMeters_1.9.3.zip"
+
+export SPOTIFY_APP_NAME="Install Spotify.app"
+export SPOTIFY_APP_URL="https://download.scdn.co/SpotifyInstaller.zip"
+
+
+
+
+
+
